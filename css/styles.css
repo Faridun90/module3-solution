@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+}
+/*Header*/
+#header-nav {
+  background-color: #dff932a7;
+ 
+  border-radius: 0;
+  border: 0;
+  margin-bottom: 0;
+}
+.navbar-brand {
+  padding-left: 0;
+  
+}
+.navbar-brand h1 {
+  /* Restaurant name */
+  color: #191c05d6;
+  font-size: 1.7em;
+  text-shadow: 2px 2px 2px #515538a7;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-left: 15px;
+  margin-bottom: 0;
+}
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+  text-decoration: none;
+}
+.text-center {
+  font-family: 'Alfa Slab One';
+  font-size: 38px;
+  text-shadow: 2px 2px 2px #dff932a7;
+  font-weight: bold;
+  position: relative;
+  margin-top: 55px;
+}
+
+#text {
+  margin: 10px;
+  background-color: #91aa15;
+  font-family: 'Alfa Slab One';
+  position: relative;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+    text-align: center;
+    color: black;
+    font-family:'Alfa Slab One';
+    font-weight: 100;
+    background-color: #d7f0489c;
+    text-shadow: 2px 2px 2px #aeba61a7;
+}
+
+#nav-list a:hover {
+  background-color: #e7e7e7;
+}
+
+.navbar-default .navbar-collapse {
+	margin-top:0px;
+	border: 0px;
+	list-style-type: none;
+}  
+
