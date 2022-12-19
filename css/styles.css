@@ -4,14 +4,13 @@
 /*Header*/
 #header-nav {
   background-color: #dff932a7;
- 
+
   border-radius: 0;
   border: 0;
   margin-bottom: 0;
 }
 .navbar-brand {
   padding-left: 0;
-  
 }
 .navbar-brand h1 {
   /* Restaurant name */
@@ -48,12 +47,12 @@
   margin-top: 10px;
 }
 #nav-list a {
-    text-align: center;
-    color: black;
-    font-family:'Alfa Slab One';
-    font-weight: 100;
-    background-color: #d7f0489c;
-    text-shadow: 2px 2px 2px #aeba61a7;
+  text-align: center;
+  color: black;
+  font-family: 'Alfa Slab One';
+  font-weight: 100;
+  background-color: #d7f0489c;
+  text-shadow: 2px 2px 2px #aeba61a7;
 }
 
 #nav-list a:hover {
@@ -61,8 +60,7 @@
 }
 
 .navbar-default .navbar-collapse {
-	margin-top:0px;
-	border: 0px;
-	list-style-type: none;
-}  
-
+  margin-top: 0px;
+  border: 0px;
+  list-style-type: none;
+}
